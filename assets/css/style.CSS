@@ -52,3 +52,90 @@ header h1 {
     margin: 0;
     padding: 0;
 }
+
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+foot h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer a {
+    color: #024e76;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    padding: 60px;
+}
+
+/* Hero style start */
+.hero {
+    background-image: url("images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+} 
+/* Hero style end */
+
+.hero-form {
+    color: #024e76;
+    background-color: #fce138;
+    padding: 20px;
+    width:500px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #024e76;
+    position:absolute;
+    bottom: 120px;
+    right: 140px;
+}
+
+h3 {
+    font-size: x-large;
+    margin:0;
+}
+
+.hero-form p {
+    margin: 5px 0 15px 0;
+}
+
+.form-input {
+    border: 1px solid #39a6b2;
+    display: block;
+    padding: 7px 15px;
+    font-size: 16;
+    color: #024e76;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.hero-form label {
+margin: 0 5px;
+}
+
+.hero-form button {
+    background-color: navy;
+    color: yellow;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+/*Hero style ends */
