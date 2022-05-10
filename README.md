@@ -1,4 +1,4 @@
-# runBuddy
+# runBuddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
