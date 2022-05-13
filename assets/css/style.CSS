@@ -33,7 +33,6 @@ header a {
 
 header nav {
   margin: 7px 0;
-  display: flex;
 }
 
 header nav ul {
@@ -45,7 +44,7 @@ header nav ul {
 }
 
   header nav ul li a {
-    margin: 0;  
+    margin: 15px;
     font-weight: lighter;
     font-size: 1.55vw;
   }
